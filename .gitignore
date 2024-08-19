@@ -1,2 +1,5 @@
 /.vscode
+
+**/missing
+**/sorted
 *.arb
